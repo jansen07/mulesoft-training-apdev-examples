@@ -1,0 +1,6 @@
+http:
+  port: "8081"
+sfdc:
+  username: test
+  password: p@ssword
+  token: dasdaswaeadastesttoken
